@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <Button
+        android:id="@+id/error_toast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Error Toast" />
+
+    <Button
+        android:id="@+id/warning_toast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Warning Toast" />
+
+    <Button
+        android:id="@+id/success_toast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Success Toast" />
+
+    <Button
+        android:id="@+id/info_toast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Information Toast" />
+
+    <Button
+        android:id="@+id/custom_toast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Custom Toast" />
+
+</LinearLayout>
