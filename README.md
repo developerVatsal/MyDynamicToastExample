@@ -81,7 +81,7 @@ dependencies {
 
 ##Usage Example
 
-https://github.com/vatsaldesai92/MyDynamicToastLibrary/tree/master/app
+https://github.com/developerVatsal/MyDynamicToastExample/tree/master
 
 ##License
 ~~~
